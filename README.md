@@ -28,7 +28,7 @@ Files to upload to S3 :
 
 Each folder has its own README for more details to setup
 
-For AWS setup, check the Medium [link](https://medium.com/p/39ea18754313/edit)
+For AWS setup, check the Medium [link](https://medium.com/@amtam0/using-tensorflow-object-detection-api-and-aws-lambda-39ea18754313?source=friends_link&sk=0014ae549a65c3800198e628745e74b4)
 
 ### Ref :
 
